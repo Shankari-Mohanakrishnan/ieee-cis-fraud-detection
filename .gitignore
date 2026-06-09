@@ -4,3 +4,8 @@ data/*.csv
 .DS_Store
 data/*.pkl
 data/*.pickle
+data/
+*.zip
+*.pkl
+*.pickle
+.ipynb_checkpoints/
