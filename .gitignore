@@ -2,3 +2,5 @@
 *.zip
 data/*.csv
 .DS_Store
+data/*.pkl
+data/*.pickle
